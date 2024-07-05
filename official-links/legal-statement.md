@@ -1,0 +1,13 @@
+# Legal Statement
+
+This documenation does not include all information that is or may be relevant to investors or potential investors, and it should not be construed as advice or a recommendation to investors or potential investors regarding the holding, purchase, or sale of assets, tokens, or other financial instruments. It also does not take into account any investor's specific objectives, financial situation, or needs.&#x20;
+
+This material is being provided by for general informational purposes only.  Views or opinions expressed herein may not reflect those of Alphanomics as a whole and may change without prior notice.  Nothing on this website constitutes investment, portfolio management, legal, accounting or tax advice, advice on trading techniques, models, algorithms, or any other schemes, or a recommendation to buy, sell or hold any digital tokens or other digital assets.  No recommendation or advice is  being given as to whether any digital asset is suitable for you.   No solicitation or offer of any digital asset or financial promotion of any kind is being made.
+
+You should not trade in digital assets unless you understand the associated risks.  You should not commit funds or collateral to trading in digital assets that you are not prepared to lose entirely. Past performance of a digital asset or trading strategy does not guarantee future results or returns.  This website contains forward-looking statements—statements that relate to future events or future performance—which are only projections, opinions and hypotheticals about possible future events, conditions, outcomes and results. Actual events or results may differ materially.
+
+Where indicated, information provided comes from other content providers.  That information is protected by copyright owned or licensed by those content providers.  Alphanomics has not been involved in preparing, adopting or editing this content and does not explicitly or implicitly endorse or approve such content.  Alphanomics makes no guarantees that information supplied in third-party content is accurate, complete, or timely.&#x20;
+
+&#x20;While Alphanomics attempts to provide accurate and timely information, neither Alphanomics nor any third-party content provider guarantees the accuracy, timeliness, completeness or usefulness of any website content, and are not responsible or liable for any such content.  All website content is provided on an "as-is" basis.
+
+&#x20;You may not use any of the trademarks, trade names, service marks, copyrights, or logos of Alphanomics in any manner which creates the impression that such items belong to or are associated with you or are used with Alphanomics' consent, and you acknowledge that you have no ownership rights in and to any of such items.
