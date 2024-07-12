@@ -1,5 +1,5 @@
 ---
-description: How do i earn reward points?
+description: How do i earn ANOM reward points?
 ---
 
 # ⛓️ Earning Rewards
@@ -12,13 +12,11 @@ There are several ways to earn reward points as detailed below or holding Nomiew
 
 ## Earning Reward Points by Referrals
 
-For each successful invite and for helping us grow as a community, **you will receive +5 reward points** and additional bonus points based on the level of activity demonstrated by each participant you invited. (We want to attract the highest quality alpha seekers on our platform!).  Each account will have a maximum of 1000 invites.  More can be requested manually to our mods in our community chat groups.
+For each successful invite and for helping us grow as a community, **you will receive +1 ANOM point**  invited.  Each account will have 1000 invites available.  More can be requested manually to our mods in our community chat groups.
 
-More points for engagement, genuine use of the platform, helpful Twitter threads on on-chain alpha discoveries and actual genuine analysis on tokens using our platform (not just copy/paste),  and being an active member in our discord group.
+As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](account-tiers-and-access/).
 
-As you accumulate points, you will also earn and unlock Alphanomics rank badges, awarded once you reach specific point thresholds - at each level you unlock an exclusive mint link for each of these badges.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-28 at 12.47.18.png" alt=""><figcaption><p>Rank Badges</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-12 at 13.01.27.png" alt="" width="563"><figcaption><p>Rank Badges</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-30 at 22.24.25.png" alt=""><figcaption><p>Your personal dashboard.</p></figcaption></figure>
 
