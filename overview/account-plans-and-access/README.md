@@ -1,8 +1,8 @@
 ---
-description: What are the account tiers?
+description: What are the account plans?
 ---
 
-# ⛓️ Account Tiers & Access
+# ⛓️ Account Plans & Access
 
 Our objective is to deliver a robust and user-friendly application that encourages widespread adoption in the cryptocurrency landscape, while ensuring accessibility for a diverse range of users. In pursuit of this goal, we have made our all-in-one platform completely free to utilize.
 
@@ -14,7 +14,7 @@ Both PLUS+ and PRO enable access to even more powerful features and functionalit
 
 **To access the account tiers, users simply earn enough ANOM points OR alternatively hold a qualifying ecosystem partner NFT.** &#x20;
 
-
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-12 at 13.10.39.png" alt=""><figcaption></figcaption></figure>
 
 Here are the 3 plans available:
 
@@ -28,7 +28,7 @@ Here are the 3 plans available:
 * Whale Txn Stream
 * Access to our Community Discord Channel
 
-## PLUS+ Account Features (10 ANOM Points)
+## PLUS Account Features (10 ANOM Points)
 
 * Everything in Starter
 * Watchlists (100 Wallets & Tokens)
