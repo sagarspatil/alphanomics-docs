@@ -78,7 +78,7 @@ Here is a breakdown of what we feature within our Discovery Alpha section:
 
 **CEX Inflows / Outflows** - Monitor the flows of tokens and stables entering and exiting the top exchanges.
 
-Please note you will need to have PRO or PLUS accounts to unlock it's full potential - [see here](overview/account-plans-and-access/)
+Please note you will need to have PRO or PLUS accounts to unlock it's full potential - [see here](overview/account-tiers-and-access/)
 
 
 

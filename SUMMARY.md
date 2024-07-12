@@ -8,9 +8,9 @@
 ## Overview
 
 * [⛓️ FAQ](overview/faq.md)
-* [⛓️ Account Plans & Access](overview/account-plans-and-access/README.md)
-  * [⛓️ NomieWorld NFT Collaboration](overview/account-plans-and-access/nomieworld-nft-collaboration.md)
-* [⛓️ Earning Rewards](overview/earning-rewards.md)
+* [⛓️ Account Plans & Access](overview/account-tiers-and-access/README.md)
+  * [⛓️ NomieWorld NFT Collaboration](overview/account-tiers-and-access/nomieworld-nft-collaboration.md)
+* [⛓️ Earning ANOM Rewards](overview/earning-anom-rewards.md)
 * [⛓️ Chain Support](overview/chain-support.md)
 * [⛓️ Nomics API](overview/nomics-api.md)
 * [⛓️ SAGE Program](overview/sage-program.md)

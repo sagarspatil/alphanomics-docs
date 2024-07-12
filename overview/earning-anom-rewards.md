@@ -2,7 +2,7 @@
 description: How do i earn ANOM reward points?
 ---
 
-# ⛓️ Earning Rewards
+# ⛓️ Earning ANOM Rewards
 
 Alphanomics is dedicated to establishing a dynamic and flourishing network and community on defi and on-chain enthusiasts. To achieve this, we have introduced a rewards system where members are incentivized for inviting other high value crypto on chain enthusiasts to join the Alphanomics platform.
 
@@ -14,7 +14,7 @@ There are several ways to earn reward points as detailed below or holding Nomiew
 
 For each successful invite and for helping us grow as a community, **you will receive +1 ANOM point**  invited.  Each account will have 1000 invites available.  More can be requested manually to our mods in our community chat groups.
 
-As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](account-plans-and-access/).
+As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](account-tiers-and-access/).
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-12 at 13.01.27.png" alt="" width="563"><figcaption><p>Rank Badges</p></figcaption></figure>
 
