@@ -10,7 +10,7 @@
 * [⛓️ FAQ](overview/faq.md)
 * [⛓️ Account Plans & Access](overview/account-tiers-and-access/README.md)
   * [⛓️ NomieWorld NFT Collaboration](overview/account-tiers-and-access/nomieworld-nft-collaboration.md)
-* [⛓️ Earning ANOM Rewards](overview/earning-anom-rewards.md)
+* [⛓️ Earning ANOM Rewards](overview/earning-rewards.md)
 * [⛓️ Chain Support](overview/chain-support.md)
 * [⛓️ Nomics API](overview/nomics-api.md)
 * [⛓️ SAGE Program](overview/sage-program.md)
@@ -26,6 +26,7 @@
 ## Official Links
 
 * [Twitter](https://twitter.com/Alphanomics\_io)
+* [Telegram ANN](http://t.me/alphanomics\_ann)
 * [Discord](https://alphanomics.io/discord)
 * [Legal Statement](official-links/legal-statement.md)
 
