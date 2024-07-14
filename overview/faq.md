@@ -10,7 +10,7 @@ Yes, our platform is free to use for the on-chain community.  Certain advanced i
 
 ### What is PRO and PLUS?
 
-You can check out Account Tiers here, having access to these tiers allow more advanced insights & intelligence to our data.
+You can check out Account Tiers [here](account-tiers-and-access/), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM reward points by inviting new users.
 
 ### Does Alphanomics have a token?
 
