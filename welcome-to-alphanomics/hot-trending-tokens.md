@@ -12,7 +12,7 @@ We solve this and bridge the gap by building an intuitive intelligence platform 
 
 We have a unique proprietary system for analyzing the top trending tokens among millions of projects, so you can quickly spot and discover opportunities.&#x20;
 
-Our method combines key trading metrics such as volume, liquidity, number of holders, unique wallets, and transactions. Additionally, we consider NOMIC Scores, active community sentiment, and the number of unique visitors to each token's individual Token Genius page.
+Our method combines key trading metrics such as volume, liquidity, number of holders, unique wallets, and transactions. Additionally, we consider NOMICS Scores, active community sentiment, and the number of unique visitors to each token's individual Token Genius page.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-25 at 19.49.42.png" alt="" width="375"><figcaption><p>Trending Tokens</p></figcaption></figure>
 
