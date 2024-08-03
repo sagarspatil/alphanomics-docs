@@ -10,7 +10,7 @@ We have curated a list of nearly 16,000 Smart Money addresses, categorized into 
 
 Additionally, we feature SMDT (Smart Money DEX Traders), a dynamic and perpetually updated list of top PNL traders. Our proprietary algorithm continuously monitors on-chain traders who consistently achieve high win rates, realize substantial profits, and demonstrate a keen understanding of market trends. This ensures that our data remains up-to-date and relevant.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-08-03 at 12.10.19.png" alt=""><figcaption><p>See what Smart Money Top DEX Flows are.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-03 at 12.10.19.png" alt=""><figcaption><p>See what the daily Smart Money Top DEX Flows are.</p></figcaption></figure>
 
 
 
