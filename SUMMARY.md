@@ -4,7 +4,7 @@
   * [⚡ Hot Trending Tokens](welcome-to-alphanomics/hot-trending-tokens.md)
   * [🛡️ Token Genius Profile Update](welcome-to-alphanomics/token-genius-profile-update.md)
   * [💧 What is NOMICS Score?](welcome-to-alphanomics/what-is-nomics-score.md)
-  * [💧 Copy of What is NOMICS Score?](welcome-to-alphanomics/copy-of-what-is-nomics-score.md)
+  * [🧠 What is Smart Money?](welcome-to-alphanomics/what-is-smart-money.md)
 
 ## Overview
 
