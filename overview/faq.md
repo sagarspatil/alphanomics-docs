@@ -12,6 +12,12 @@ Yes, our platform is free to use for the on-chain community.  Certain advanced i
 
 You can check out Account Tiers [here](account-tiers-and-access/), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM reward points by inviting new users.
 
+### What is Discovery Alpha?
+
+Discovery Alpha is a section of Alphanomics where all on-chain data and transactions have been processed and cleansed at a deeper level, giving better alpha and context to who and what primarily smart money is doing on-chain.  Here you will find DEX Accumulations, deposits, withdrawals, Smart Money portfolios and movements, and much more.
+
+
+
 ### Does Alphanomics have a token?
 
 Alphanomics does not currently have a token or offer any kind of pre-sale.  Please practice caution.
@@ -19,3 +25,4 @@ Alphanomics does not currently have a token or offer any kind of pre-sale.  Plea
 ### Do you offer any advertising or banner ads?
 
 Currently no.
+
