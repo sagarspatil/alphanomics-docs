@@ -4,7 +4,7 @@ description: What does it mean to trend on Alphanomics?
 
 # ⚡ Hot Trending Tokens
 
-Alphanomics is an on-chain DEX data intelligence platform designed to transform how people interact with crypto data and help identify asymmetric opportunities, mitigate risk, and assist/execute with portfolio management.&#x20;
+Alphanomics is an on-chain DEX data intelligence terminal designed to transform how people interact with crypto data and help identify asymmetric opportunities, mitigate risk, and assist/execute with portfolio management.&#x20;
 
 Over half a billion people hold crypto assets, but less than 1% use on-chain data due to complexities.&#x20;
 
