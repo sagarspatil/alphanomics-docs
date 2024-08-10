@@ -16,7 +16,9 @@ You can check out Account Tiers [here](account-tiers-and-access/), having access
 
 Discovery Alpha is a section of Alphanomics where all on-chain data and transactions have been processed and cleansed at a deeper level, giving better alpha and context to who and what primarily smart money is doing on-chain.  Here you will find DEX Accumulations, deposits, withdrawals, Smart Money portfolios and movements, and much more.
 
+### What is Smart Money?
 
+Smart money is explained [here](faq.md#what-is-smart-money).
 
 ### Does Alphanomics have a token?
 
