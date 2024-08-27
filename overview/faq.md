@@ -22,9 +22,9 @@ Smart money is explained [here](faq.md#what-is-smart-money).
 
 ### Does Alphanomics have a token?
 
-Alphanomics does not currently have a token or offer any kind of pre-sale.  Please practice caution.
+Alphanomics does not currently have a token or offer any kind of pre-sale at this time.  Please practice caution.
 
-### Do you offer any advertising or banner ads?
+### What do the NOMIC Scores mean?
 
-Currently no.
+See our explanation [here](faq.md#what-do-the-nomic-scores-mean).
 
