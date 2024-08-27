@@ -8,9 +8,9 @@ Our objective is to deliver a robust and user-friendly application that encourag
 
 By creating a Starter account, you will gain access to some of our fundamental product features like the Live DEX Master, Token Genius (Lite), and the Wallet Deep Explorer.
 
-For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our PLUS+ and PRO-enabled platform.&#x20;
+For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our PLUS and PRO-enabled platform.&#x20;
 
-Both PLUS+ and PRO enable access to even more powerful features and functionalities.
+Both PLUS and PRO enable access to even more powerful features and functionalities.
 
 **To access the account tiers, users simply earn enough ANOM points OR alternatively hold a qualifying ecosystem partner NFT.** &#x20;
 
