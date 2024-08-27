@@ -14,7 +14,7 @@ Both PLUS+ and PRO enable access to even more powerful features and functionalit
 
 **To access the account tiers, users simply earn enough ANOM points OR alternatively hold a qualifying ecosystem partner NFT.** &#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-12 at 13.10.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-27 at 09.29.27.png" alt=""><figcaption></figcaption></figure>
 
 Here are the 3 plans available:
 
@@ -38,9 +38,9 @@ Here are the 3 plans available:
 * Discovery Alpha (Limited)
 * Plus members Discord group
 
-## PRO Account Features (5000 ANOM Points)
+## PRO Account Features (1000 ANOM Points)
 
-* Everything in PLUS+
+* Everything in PLUS
 * On-Chain AI Advanced (+Telegram)
 * Discovery Alpha with Smart Money Data
 * Watchlists & Smart Alerts (1000)
