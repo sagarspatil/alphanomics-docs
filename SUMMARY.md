@@ -15,6 +15,7 @@
 * [⛓️ Earning ANOM Rewards](overview/earning-rewards.md)
 * [⛓️ Chain Support](overview/chain-support.md)
 * [⛓️ Nomics API](overview/nomics-api.md)
+* [⛓️ Tokenomics](overview/tokenomics.md)
 * [⛓️ SAGE Program](overview/sage-program.md)
 
 ## Platform-Tools
