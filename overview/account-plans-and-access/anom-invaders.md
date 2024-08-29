@@ -8,7 +8,7 @@ description: What is ANOM Invaders?
 
 Simply choose between "PUMP" (for a price increase) or "DUMP" (for a price decrease). If your prediction is correct, you'll earn 💎 points. The more consecutive correct guesses you make, the higher your multiplier, allowing you to earn even more points.&#x20;
 
-With our mini app, participating is simple and accessible directly through Telegram allowing more users to explore and be involved with the Alphanomics Ecosystem!
+With our mini app, participating is simple and accessible directly through Telegram allowing more users to explore and be involved with the Alphanomics ANOM Rewards program!
 
 ## How do I play ANOM Invaders?
 
@@ -31,37 +31,38 @@ Once the app is launched, you’ll see the current price of ETH. Predict whether
 * **PUMP**: Select this if you believe the price will increase.
 * **DUMP**: Select this if you believe the price will decrease.
 
-SCREENSHOT OF BUTTONS
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.14.58.png" alt=""><figcaption></figcaption></figure>
 
 Once you've made your choice, watch as the price rolls for 5 suspenseful seconds before the results are revealed.
 
 If your prediction is spot-on, you’ll score 10 points. And here’s where it gets exciting—hit a 6-guess winning streak, and your points will be multiplied, boosting your score even higher!
 
-SCREENSHOT OF WIN
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.18.05.png" alt=""><figcaption></figcaption></figure>
 
 * The points cap is determined by the formula: base points \* 2^5, once you achieve a 6-guess winning streak.
 * Your winning streak resets if your prediction doesn’t match the outcome or if you pause for more than 10 seconds after a round of guessing.
 
-## How do I earn additional points?💎
+## How do I earn additional 💎 Ppoints?
 
-Unlocking the autopilot mode so the game can play for you offline, completing the tasks (both daily and one time) and also inviting your friends.
+Unlocking the autopilot mode so the game can play for you offline, completing the tasks (both daily and one time), and also inviting your friends.
 
 
 
-## Completing Tasks
+## Completing Tasks for 💎 Points
 
 1. Navigate to the **Tasks** section to view a list of available tasks.
 
 **Complete Tasks to Boost Your Points:**
 
 * Complete the tasks listed under **Task** to earn additional points (Daily tasks can be repeated and completed everyday & One time tasks can only be completed once)
+* When you complete a task successfully, you will see a blue tick next to it!
 * Keep an eye out, as new tasks will be added regularly to help you score even more!
 
 **Note:**
 
 * Each task offers a different amount of points.
 
-
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.32.32.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,6 +72,8 @@ Unlocking the autopilot mode so the game can play for you offline, completing th
 
 1. Go to the **Invite** section and select **Invite Friends** to share your unique invitation link.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.19.09.png" alt=""><figcaption></figcaption></figure>
+
 **Why Invite Friends to ANOM Invaders?**
 
 * When your friends join the ANOM Invaders mini-app using your invitation link, both of you will receive 5,000 points as a welcome bonus.
@@ -78,7 +81,7 @@ Unlocking the autopilot mode so the game can play for you offline, completing th
 
 
 
-## How to use my earned points?
+## How to use your earned 💎 Points?
 
 **Maximize Your Points in ANOM Invaders:**
 
@@ -87,7 +90,9 @@ Put the points you’ve earned to good use with these powerful upgrades:
 * **Fuel Up:** Boost your gameplay by increasing the maximum number of Fuel-ups, allowing you to play more rounds.
 * **Turbo Boosters:** Boost your base score for correct guesses, giving you a bigger point haul with each correct prediction.
 
-Use your points strategically to enhance your chances and multiply your overall score in OKX Racer!
+Use your points strategically to enhance your chances and multiply your overall score in ANOM Invaders!
+
+<figure><img src="../../.gitbook/assets/signal-2024-08-29-112810_002.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## What is the Global Leaderboard?
 
@@ -104,7 +109,7 @@ Both leaderboards update in real-time, so you’re always up-to-date with the la
 
 ## How do I unlock the Big Bonus?
 
-1. &#x20;Complete the tasks on this page:
+&#x20;**Complete the tasks on this page:**
 
 &#x20;Create an account via the link (make sure you connect/create your wallet to the Alphanomics platform)
 
@@ -112,9 +117,9 @@ Complete all the tasks on the Tasks page
 
 Earn at least 10 points on the Alphanomics platform - you will need at least 10 ANOM points in your platform account (you earn 1 ANOM per invite on the platform)
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.26.04.png" alt=""><figcaption></figcaption></figure>
 
-
-Once the above is completed, simply check your eligibility and then "Auto-Pilot" mode will be unlocked!
+Once the above is completed, simply check your eligibility, and then "Auto-Pilot" mode will be unlocked!
 
 
 
@@ -126,17 +131,21 @@ Once the above is completed, simply check your eligibility and then "Auto-Pilot"
 
 ### How do I check if I'm eligible for the Big Bonus?
 
-Simple copy and paste the exact same address you used to sign up for the Alphanomics platform, paste it into the field like below, click the button to submit and it will tell you if your eligible.
+Simply copy and paste the exact same address you used to sign up for the Alphanomics platform, paste it into the field like below, click the blue button to submit, and it will tell you if you're eligible.
 
-
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.22.08.png" alt=""><figcaption></figcaption></figure>
 
 ### How does Auto-Pilot mode work?
 
-If you have successfully unlocked Auto-Pilot mode by being eligible and completing the tasks on the Bonuses page.  Every time you exit / close the app for up to 3 hours, you will automatically be earning points.  You will see any points earned on the auto-pilot display when you start and launch the app again.  It will only run for a maximum of 3 hours earning points on autopilot before you must launch the game again.
+If you have successfully unlocked Auto-Pilot mode by being eligible and completing the tasks on the Bonuses page.  Every time you exit/close the app for up to 3 hours, you will automatically be earning points. &#x20;
 
 
 
-### How do I convert my collected Diamond points?
+You will see any points earned on the auto-pilot display when you start and launch the app again.  It will only run for a maximum of 3 hours earning points on autopilot before you must launch the game again.
+
+
+
+### How do I convert my collected 💎 Points?
 
 An announcement will be made soon on how to convert to ANOM Reward points!
 
