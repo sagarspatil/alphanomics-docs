@@ -6,7 +6,7 @@ description: What is ANOM Invaders?
 
 **ANOM Invaders** is a fun and easy-to-use Telegram mini app that challenges you to predict the price movement of ETH.&#x20;
 
-Simply choose between "PUMP" (for a price increase) or "DUMP" (for a price decrease). If your prediction is correct, you'll earn 💎 points. The more consecutive correct guesses you make, the higher your multiplier, allowing you to earn even more points.&#x20;
+Simply choose between "**PUMP**" (for a price increase) or "**DUMP**" (for a price decrease). If your prediction is correct, you'll earn 💎 points. The more consecutive correct guesses you make, the higher your multiplier, allowing you to earn even more points.&#x20;
 
 With our mini app, participating is simple and accessible directly through Telegram allowing more users to explore and be involved with the Alphanomics ANOM Rewards program!
 
@@ -45,8 +45,6 @@ If your prediction is spot-on, you’ll score 10 points. And here’s where it g
 ## How do I earn additional 💎 Ppoints?
 
 Unlocking the autopilot mode so the game can play for you offline, completing the tasks (both daily and one time), and also inviting your friends.
-
-
 
 ### Completing Tasks for 💎 Points
 
