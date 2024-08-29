@@ -88,7 +88,7 @@ Put the points you’ve earned to good use with these powerful upgrades:
 
 Use your points strategically to enhance your chances and multiply your overall score in ANOM Invaders!
 
-<figure><img src="../../.gitbook/assets/signal-2024-08-29-112810_002.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signal-2024-08-29-112810_002 (1).jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## What is the Global Leaderboard?
 

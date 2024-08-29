@@ -23,17 +23,17 @@ layout:
 Alphanomics is an easy to use on-chain DEX data terminal which simplifies blockchain on-chain activities to provide fast, real time, cleaned & curated insights to help uncover new opportunities, token trends and actionable insights for your trading and investments.&#x20;
 {% endhint %}
 
-> ### <mark style="background-color:yellow;">You're a project looking to update your Token Genius profile?</mark> [<mark style="background-color:yellow;">Click Here</mark>](broken-reference)
+> ### <mark style="background-color:yellow;">A project looking to update your Token Genius profile?</mark> [<mark style="background-color:yellow;">Click Here</mark>](broken-reference)
 
 Trading and investing in the crypto markets is synonymous with the byproduct of millions upon millions of on-chain data transactions. This data is typically overlooked and rightly so, as vast amounts of raw crypto data without interpretation, aggregation or any kind of optimised interface make it fairly unusable and unhelpful. &#x20;
 
 On top of this, having insufficient context with crucial data points such as wallet anonymity, relationships and overall market sentiment missing will only cause further confusion and even lower utility.
 
-Alphanomics was designed to solve this by allowing end users to leverage this powerful transaction data in easy to digest and extremely useful manner for their future trades and investment decisions.
+{% embed url="https://www.youtube.com/watch?v=P8iNLV4CyDo" %}
 
-{% embed url="https://youtu.be/MH23Pr6GkYA" %}
+Alphanomics was designed to solve this by allowing end users to leverage this powerful transaction data in easy to digest and extremely useful manner for their future trades and investment decisions. &#x20;
 
-&#x20; **What can Alphanomics be used for?**
+**What can Alphanomics be used for?**
 
 * Discover Live DEX on-chain transactions, trades and see what the is currently trending.
 * Real Time Insights to discover new asymmetric opportunities _(discover the next unicorn opportunity before the majority)_
@@ -68,17 +68,21 @@ Here, we can closely track the actions of the most astute investors in real-time
 
 Here is a breakdown of what we feature within our Discovery Alpha section:
 
-**Smart Whales** - real time on chain stream of all buys, sells and swaps of the smartest money so you can see what the most sophisticated and clued actors.
+**Top 100 Traders -** See a breakdown of the top most profitable on-chain traders, what they are buying/selling, how they made their biggest wins/losses and how they rank.
 
-**Smart Whale Holdings** - Monitor what actual portfolio movements on the top 1%, see which tokens they are increasing / decreasing holdings over several time frames.
+**Narrative Pulse** - Highlights sectors and narratives which have had the highest/lowest on-chain activity and gains.
 
-**Net Buy Accumulators**  - View what the net buys are of all the biggest tokens to see what smart money is accumulating.
+**Smart Money DEX Stream** - real time on chain stream of all buys, sells and swaps of the smartest money so you can see what the most sophisticated and clued actors are doing.
 
-**Fresh Accumulators** - View what the latest freshest wallets are accumulating and buying in the market.
+**Smart Money Holdings** - Monitor Smart Money portfolio movements, see which tokens they are increasing/decreasing holdings over several time frames.
 
-**CEX Inflows / Outflows** - Monitor the flows of tokens and stables entering and exiting the top exchanges.
+**DEX Accumulators**  - See an array of different types of buying/selling on the entire on-chain market, from Fresh wallets, Smart Money and Overall.
 
-Please note you will need to have PRO or PLUS accounts to unlock it's full potential - [see here](overview/account-tiers-and-access/)
+**CEX Netflows** - Monitor the flows of tokens and stables entering and exiting the top exchanges.
+
+
+
+Please note you will need to have PRO or PLUS accounts to unlock the terminals full potential - [see here](overview/account-tiers-and-access/)
 
 
 
