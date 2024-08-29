@@ -48,7 +48,7 @@ Unlocking the autopilot mode so the game can play for you offline, completing th
 
 
 
-## Completing Tasks for 💎 Points
+### Completing Tasks for 💎 Points
 
 1. Navigate to the **Tasks** section to view a list of available tasks.
 
@@ -64,9 +64,7 @@ Unlocking the autopilot mode so the game can play for you offline, completing th
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.32.32.png" alt=""><figcaption></figcaption></figure>
 
-
-
-## Inviting Friends
+### Inviting Friends for 💎  Points
 
 **How to Invite Friends:**
 
@@ -115,9 +113,13 @@ Both leaderboards update in real-time, so you’re always up-to-date with the la
 
 Complete all the tasks on the Tasks page
 
-Earn at least 10 points on the Alphanomics platform - you will need at least 10 ANOM points in your platform account (you earn 1 ANOM per invite on the platform)
-
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.26.04.png" alt=""><figcaption></figcaption></figure>
+
+Earn at least **10 ANOM points** on the Alphanomics platform - you will need at least 10 ANOM points in your platform account which will be a PLUS level (you earn 1 ANOM per invite on the [platform.alphanomics.io](https://platform.alphanomics.io/) )
+
+You can check in [My Profile](https://platform.alphanomics.io/profile) page on the platform to see how many points you have:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.45.44.png" alt=""><figcaption></figcaption></figure>
 
 Once the above is completed, simply check your eligibility, and then "Auto-Pilot" mode will be unlocked!
 
@@ -131,7 +133,7 @@ Once the above is completed, simply check your eligibility, and then "Auto-Pilot
 
 ### How do I check if I'm eligible for the Big Bonus?
 
-Simply copy and paste the exact same address you used to sign up for the Alphanomics platform, paste it into the field like below, click the blue button to submit, and it will tell you if you're eligible.
+**Simply copy and paste the exact same address you used to sign up for the Alphanomics platform**, paste it into the field like below, click the blue button to submit, and it will tell you if you're eligible.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.22.08.png" alt=""><figcaption></figcaption></figure>
 
