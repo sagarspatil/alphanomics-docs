@@ -12,19 +12,19 @@ At the top section, you will find essential token information such as holders, p
 
 ### Nomics Score
 
-You can see what Nomics score means [here](token-genius.md#nomics-score).
+Nomics Score is our unique scoring system which combines all on-chain internal data points with a combination of off-chain data points. You can see what Nomics score means [here](token-genius.md#nomics-score).
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-31 at 11.17.29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Audit Checker
 
-The audit check gives you a 'lite' scan on the contract, we use an integration with goplus to hgihlight any immediate potential flags.  Useful for quickly seeing the safety of a token.
+The audit check provides a quick 'lite' scan of the token’s contract within Token Genius, utilizing GoPlus Security integration to flag any immediate potential risks. This feature is useful for quickly assessing the safety of a token.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-31 at 11.18.16.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Community Sentiment
 
-Here is a community voting section where users can vote and help boost their sentiment scores up on our platform.
+This section allows community members to participate in voting, helping to boost sentiment scores on our platform. Users can cast their votes to influence how certain tokens are perceived within the community.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-31 at 11.19.37.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ Here is a community voting section where users can vote and help boost their sen
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-31 at 11.13.54 (1).png" alt=""><figcaption></figcaption></figure>
 
-Next, you will discover categorized DEX transactions related to this particular token, providing detailed information such as time, price, amount, wallet, and all individual transaction details.&#x20;
+Here you will discover categorized DEX transactions related to this particular token, providing detailed information such as time, price, amount, wallet, and all individual transaction details.&#x20;
 
 This resource is valuable for sifting through and gaining insights into the buying and selling activities, allowing you to gauge live and in real time the participants and the extent of their transactions.  This in granular sense gives a pulse of whats happening with these tokens on DEX's.
 
@@ -40,7 +40,7 @@ This resource is valuable for sifting through and gaining insights into the buyi
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-29 at 13.12.32.png" alt=""><figcaption></figcaption></figure>
 
-Whale transactions is a powerful feature that segments all live real time transactions (we have a drop down of different tiers ranging from shrimps to giga whales) . This allows you to isolate and examine trades beyond the realm of small and casual transactions, offering insights into larger volume and size trades.&#x20;
+Whale transactions is a feature that segments all live real time transactions (we have a drop down of different tiers ranging from shrimps to giga whales) . This allows you to isolate and examine trades beyond the realm of small and casual transactions, offering insights into larger volume and size trades.&#x20;
 
 It serves as an excellent resource to uncover significant transactions made by whales, providing valuable alpha and facilitating an understanding of which prominent investors are actively transacting.
 
