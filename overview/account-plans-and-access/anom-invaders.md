@@ -15,16 +15,16 @@ With our mini app, participating is simple and accessible directly through Teleg
 You can access the **ANOM Invaders** mini-app through the following steps:
 
 1. Click the button below.
-2. Choose "Launch App" to get started.
+2. Choose "Start" to get started.
 
-SCREENSHOT OF HOME
+<figure><img src="../../.gitbook/assets/signal-2024-09-01-093323_002.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To participate in **ANOM Invaders**, follow these steps:
+To play **ANOM Invaders**, follow these steps:
 
 1. Click on the Telegram link provided below.
-2. Select "Play!" to start the game.
+2. Select and Click the blue "Play!" button or click "Launch & Battle" to start the game.
 
-SCREENSHOT OF HOMESCREEN
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-01 at 09.29.42.png" alt="" width="285"><figcaption></figcaption></figure>
 
 Once the app is launched, you’ll see the current price of ETH. Predict whether the price will rise or fall by choosing one of the following options:
 
@@ -42,7 +42,7 @@ If your prediction is spot-on, you’ll score 10 points. And here’s where it g
 * The points cap is determined by the formula: base points \* 2^5, once you achieve a 6-guess winning streak.
 * Your winning streak resets if your prediction doesn’t match the outcome or if you pause for more than 10 seconds after a round of guessing.
 
-## How do I earn additional 💎 Ppoints?
+## How do I earn additional 💎 Points?
 
 Unlocking the autopilot mode so the game can play for you offline, completing the tasks (both daily and one time), and also inviting your friends.
 
