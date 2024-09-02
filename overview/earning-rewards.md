@@ -6,7 +6,7 @@ description: How do i earn ANOM reward points?
 
 Alphanomics is dedicated to establishing a dynamic and flourishing network and community on defi and on-chain enthusiasts. To achieve this, we have introduced a rewards system where members are incentivized for inviting other high value crypto on chain enthusiasts to join the Alphanomics platform.
 
-There are several ways to earn reward points as detailed below or holding Nomieworld and other qualifying NFT's. NFT's must be held in the same wallet, points will be determined depening on the type and time elapsed since the NFT was held.  Points will be reset and lost if NFT's are transferred or sold.
+There are several ways to earn reward points as detailed below or playing ANOM Invaders telegram game and holding Nomieworld and other qualifying NFT's. NFT's must be held in the same wallet, points will be determined depening on the type and time elapsed since the NFT was held.  Points will be reset and lost if NFT's are transferred or sold.
 
 **Reward points will be redeemed in future for NFT's, Merch, Account Upgrade Credits and also contribute to future community airdrops.**&#x20;
 
@@ -16,7 +16,7 @@ For each successful invite and for helping us grow as a community, **you will re
 
 As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](account-tiers-and-access/).
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-12 at 13.01.27.png" alt="" width="563"><figcaption><p>Rank Badges</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-02 at 14.46.46.png" alt=""><figcaption><p>Rank Badges</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-30 at 22.24.25.png" alt=""><figcaption><p>Your personal dashboard.</p></figcaption></figure>
 
