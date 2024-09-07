@@ -14,15 +14,14 @@ With our mini app, participating is simple and accessible directly through Teleg
 
 You can access the **ANOM Invaders** mini-app through the following steps:
 
-1. Click the button below.
-2. Choose "Start" to get started.
+1. Join this Telegram channel: [https://t.me/anom\_invaders\_bot](https://t.me/anom\_invaders\_bot)
+2. Click the "Start" button to get started.
 
 <figure><img src="../../.gitbook/assets/signal-2024-09-01-093323_002.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To play **ANOM Invaders**, follow these steps:
+To play **ANOM Invaders:**
 
-1. Click on the Telegram link provided below.
-2. Select and Click the blue "Play!" button or click "Launch & Battle" to start the game.
+Select and Click the blue "Play!" button or click "Launch & Battle" to start the game.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-01 at 09.29.42.png" alt="" width="285"><figcaption></figcaption></figure>
 
