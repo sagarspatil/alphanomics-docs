@@ -146,7 +146,7 @@ You will see any points earned on the auto-pilot display when you start and laun
 
 ### How do I convert my collected 💎 Points?
 
-An announcement will be made soon on how to convert to ANOM Reward points!
+An announcement will be made in the future on how to convert to ANOM Reward points.
 
 
 
