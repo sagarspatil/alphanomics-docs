@@ -23,7 +23,7 @@ To play **ANOM Invaders:**
 
 Select and Click the blue "Play!" button or click "Launch & Battle" to start the game.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-01 at 09.29.42.png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-14 at 16.58.42.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Once the app is launched, you’ll see the current price of ETH. Predict whether the price will rise or fall by choosing one of the following options:
 
