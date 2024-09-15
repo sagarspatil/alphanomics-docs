@@ -10,7 +10,7 @@
 
 * [⛓️ FAQ](overview/faq.md)
 * [⛓️ Account Plans & Access](overview/account-tiers-and-access/README.md)
-  * [🚀 ANOM Invaders](overview/account-plans-and-access/anom-invaders.md)
+  * [☄️ ANOM Invaders](overview/account-plans-and-access/anom-invaders.md)
   * [⛓️ NomieWorld NFT Collaboration](overview/account-tiers-and-access/nomieworld-nft-collaboration.md)
 * [⛓️ Earning ANOM Rewards](overview/earning-rewards.md)
 * [⛓️ Chain Support](overview/chain-support.md)

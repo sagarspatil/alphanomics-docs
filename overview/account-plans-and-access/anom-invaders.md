@@ -2,7 +2,7 @@
 description: What is ANOM Invaders?
 ---
 
-# 🚀 ANOM Invaders
+# ☄️ ANOM Invaders
 
 **ANOM Invaders** is a fun and easy-to-use Telegram mini app that challenges you to predict the price movement of ETH.&#x20;
 
