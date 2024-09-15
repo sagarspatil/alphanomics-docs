@@ -12,6 +12,10 @@ Yes, our platform is free to use for the on-chain community.  Certain advanced i
 
 You can check out Account Tiers [here](account-tiers-and-access/), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM reward points by inviting new users.
 
+### How does Alphanomics use AI?
+
+Alphanomics harnesses AI in various ways to process our internal on-chain data. This includes assistance with labeling, contextualizing on-chain transactions and movements, and supporting risk assessment and due diligence. Additionally, we offer a specialized module in our terminal: On-Chain AI, which delivers standout signals, insights, and summaries, all powered by AI. See more info [here](../platform-tools/on-chain-ai.md).
+
 ### What is Discovery Alpha?
 
 Discovery Alpha is a section of Alphanomics where all on-chain data and transactions have been processed and cleansed at a deeper level, giving better alpha and context to who and what primarily smart money is doing on-chain.  Here you will find DEX Accumulations, deposits, withdrawals, Smart Money portfolios and movements, and much more.
