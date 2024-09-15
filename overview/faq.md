@@ -6,7 +6,7 @@ Alphanomics is an easy to use intelligence DEX data platform which simplifies bl
 
 ### Is Alphanomics Free to use?
 
-Yes, our platform is free to use for the on-chain community.  Certain advanced insights require PRO and PLUS accounts.
+Yes, our platform is free to use for the on-chain community.  Certain advanced insights require PRO and PLUS accounts which at this current time can only unlocked with ANOM reward points.
 
 ### What is PRO and PLUS?
 
