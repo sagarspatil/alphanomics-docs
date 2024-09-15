@@ -6,13 +6,25 @@ description: What it does and how do I use it?
 
 This forms the foundation of Alphanomics - a live and continuous real-time stream of on-chain data encompassing the majority of DEX AMM transactions. This stream provides the most up-to-date and authentic overview of the broader marketplace, giving a pulse on the current state of affairs.
 
-By continuously receiving a stream of on-chain data, we can accurately observe the real-time actions and behaviors of the market, in contrast to the noise found on something like Twitter. With our platform, you will have visibility into every individual buy, sell, or swap occurring across all selected chains and Automated Market Makers (AMMs).
+By continuously receiving a stream of on-chain data, we can accurately observe the real-time actions and behaviors of the market, in contrast to the noise found on something like X.&#x20;
 
-To provide you with real-time insights, we have positioned three segmented summary tables at the top. These tables display the essentials such as "Total Market Cap, Volume (24hr/7days)", "Top Whale Transactions" and "Top Volume Tokens," allowing you to instantly observe significant transactions and tokens with the highest trading volume. These  serve as indicators of areas of interest, market traction and enabling us to further explore and uncover valuable information regarding tokens and wallets.
+With our platform, you will have visibility into every individual buy, sell, or swap occurring across all selected chains and DEX's.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-29 at 12.15.55.png" alt=""><figcaption></figcaption></figure>
+We have positioned segmented Trend Data tables at the top to provide you with real-time insights.&#x20;
 
-The stream eliminates unnecessary noise and provides us with crucial insights and a more of granular view, including:
+**Hot Trending Tokens** : See the top projects based on platform and on-chain trends
+
+**Smart Money Top DEX Flows :** Follow what the top 1% of on-chain traders are buying / selling
+
+**Top DEX Buy Volumes :** A look at what on-chain collectively is buying
+
+
+
+These serve as indicators of areas of interest and great avenues of discovery, market traction and enabling us to further explore and uncover valuable insights of whats happening in the on-chain markets real time.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-15 at 11.01.09.png" alt=""><figcaption></figcaption></figure>
+
+**Live DEX Master:** The stream eliminates unnecessary noise and provides us with crucial insights and a more of granular view, including:
 
 * **Timestamp**
 * **Type of trade**
@@ -21,7 +33,7 @@ The stream eliminates unnecessary noise and provides us with crucial insights an
 * **Amount traded**
 * **Wallet and Transaction details**&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-30 at 09.08.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-15 at 11.00.52.png" alt=""><figcaption></figcaption></figure>
 
 By having access to this detailed information, we can promptly observe any activity occurring within decentralized order books. We can rely on our own observations to confirm the market situation, unaffected by deceptive CEX order books or viral tweets regarding market sentiment.
 
