@@ -82,7 +82,7 @@ Here is a breakdown of what we feature within our Discovery Alpha section:
 
 
 
-Please note you will need to have PRO or PLUS accounts to unlock the terminals full potential - [see here](overview/account-tiers-and-access/)
+Please note you will need to have PRO or PLUS accounts to unlock the terminals full potential - [see here](overview/account-plans-and-access.md)
 
 
 

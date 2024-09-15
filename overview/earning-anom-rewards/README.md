@@ -14,11 +14,11 @@ There are several ways to earn reward points as detailed below or playing ANOM I
 
 For each successful invite and for helping us grow as a community, **you will receive +1 ANOM point**  invited.  Each account will have 1000 invites available.  More can be requested manually to our mods in our community chat groups.
 
-As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](account-tiers-and-access/).
+As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](../account-plans-and-access.md).
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-02 at 14.46.46.png" alt=""><figcaption><p>Rank Badges</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-02 at 14.46.46.png" alt=""><figcaption><p>Rank Badges</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-30 at 22.24.25.png" alt=""><figcaption><p>Your personal dashboard.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-30 at 22.24.25.png" alt=""><figcaption><p>Your personal dashboard.</p></figcaption></figure>
 
 Within your Alphanomics account dashboard, you will find your personal invite link, along with information on the number of available and claimed invites. The dashboard will also display your ranking, the total number of points you have accrued, and the badges you have unlocked.
 
@@ -26,7 +26,7 @@ Within your Alphanomics account dashboard, you will find your personal invite li
 You can view your position in the **members leaderboard** by [clicking here](https://platform.alphanomics.io/leaderboard).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-30 at 22.25.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-30 at 22.25.39.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **IMPORTANT**: to be credited fully for your points, you **must** use your personal platform invite link and if you want to be credited for your Twitter posts and Discord activity, please make sure you update your profile with your relevant ID's.
