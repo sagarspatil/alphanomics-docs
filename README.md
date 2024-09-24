@@ -23,7 +23,7 @@ layout:
 Alphanomics is an easy to use on-chain DEX data terminal which simplifies blockchain on-chain activities to provide fast, real time, cleaned & curated insights to help uncover new opportunities, token trends and actionable insights for your trading and investments.&#x20;
 {% endhint %}
 
-> ### <mark style="background-color:yellow;">A project looking to update your Token Genius profile?</mark> [<mark style="background-color:yellow;">Click Here</mark>](broken-reference)
+> ### <mark style="background-color:yellow;">A project looking to update your Token Genius profile?</mark> [<mark style="background-color:yellow;">Click Here</mark>](welcome-to-alphanomics/token-genius-profile-update.md)
 
 Trading and investing in the crypto markets is synonymous with the byproduct of millions upon millions of on-chain data transactions. This data is typically overlooked and rightly so, as vast amounts of raw crypto data without interpretation, aggregation or any kind of optimised interface make it fairly unusable and unhelpful. &#x20;
 
