@@ -20,7 +20,7 @@ layout:
 # Welcome to Alphanomics
 
 {% hint style="info" %}
-Alphanomics is an easy to use on-chain DEX data terminal which simplifies blockchain on-chain activities to provide fast, real time, cleaned & curated insights to help uncover new opportunities, token trends and actionable insights for your trading and investments.&#x20;
+Alphanomics is an easy to use on-chain intelligence terminal which simplifies blockchain on-chain data to provide fast, real time, cleaned & curated insights to help uncover new opportunities, token trends and actionable insights for your trading and investments.&#x20;
 {% endhint %}
 
 > ### <mark style="background-color:yellow;">A project looking to update your Token Genius profile?</mark> [<mark style="background-color:yellow;">Click Here</mark>](welcome-to-alphanomics/token-genius-profile-update.md)
