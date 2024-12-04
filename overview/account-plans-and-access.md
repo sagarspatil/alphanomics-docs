@@ -12,9 +12,9 @@ For those who desire to take their experience to the next level and attain a gre
 
 Both PLUS and PRO enable access to even more powerful features and functionalities.
 
-**To access the account tiers, users simply earn enough ANOM points OR alternatively hold a qualifying ecosystem partner NFT.** &#x20;
+**To access the account tiers, users simply earn and own enough ANOM points.**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-27 at 09.29.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-27 at 09.29.27.png" alt=""><figcaption></figcaption></figure>
 
 Here are the 3 plans available:
 

@@ -28,8 +28,7 @@
 
 ## Official Links
 
-* [Twitter](https://twitter.com/Alphanomics\_io)
-* [Telegram ANN](http://t.me/alphanomics\_ann)
+* [Twitter](https://twitter.com/Alphanomics_io)
 * [Discord](https://alphanomics.io/discord)
 * [Legal Statement](official-links/legal-statement.md)
 
