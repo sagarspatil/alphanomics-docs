@@ -12,7 +12,7 @@ There are several ways to earn reward points as detailed below or playing ANOM I
 
 ## Earning Reward Points by Referrals
 
-For each successful invite and for helping us grow as a community, **you will receive +1 ANOM point**  invited.  Each account will have 1000 invites available.  More can be requested manually to our mods in our community chat groups.
+For each successful invite and for helping us grow as a community, **you will receive +1 ANOM point**  invited.  Each account will have 30 invites available.  More can be requested manually to our mods in our community chat groups.
 
 As you accumulate points, you will also earn and unlock Alphanomics levels, awarded once you reach specific point thresholds. These levels also determine your plan your account has accessed to - you can read more about account plans [here](../account-plans-and-access.md).
 
