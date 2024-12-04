@@ -12,7 +12,7 @@ With this special collaboration and partnership, Nomiemon NFT's will grant both 
 
 The Nomiemons NFT Art Collection -  These are limited edition fun art pieces of the cute and fun 'Nomies'.  You may have seen a bunch of Nomiemons randomly placed around whilst using Alphanomics, but here you can mint and own your very own unique pfp and own it.
 
-The Nomimons will be priced fairly for the community from 0.07 ETH each to make them extremely accessible to enable optimal fair distribution. Max mint will be 10 per wallet for those who are whitelisted or have used our platform during beta.  &#x20;
+The Nomimons will be priced fairly for the community from 0.014 ETH each to make them extremely accessible to enable optimal fair distribution. Max mint will be 10 per wallet for those who are whitelisted or have used our platform during beta.  &#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-07-14 at 09.35.56.png" alt=""><figcaption><p>A loyalty rewards system for our founding community.</p></figcaption></figure>
 
