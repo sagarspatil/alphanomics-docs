@@ -1,5 +1,6 @@
 ---
 description: Nomiemons, the first Alphanomics ecosystem collaboration.
+hidden: true
 ---
 
 # ⛓️ NomieWorld NFT Collaboration

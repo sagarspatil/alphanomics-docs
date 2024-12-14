@@ -6,8 +6,6 @@ description: How do i earn ANOM reward points?
 
 Alphanomics is dedicated to establishing a dynamic and flourishing network and community on defi and on-chain enthusiasts. To achieve this, we have introduced a rewards system where members are incentivized for inviting other high value crypto on chain enthusiasts to join the Alphanomics platform.
 
-There are several ways to earn reward points as detailed below or playing ANOM Invaders telegram game and holding Nomieworld and other qualifying NFT's. NFT's must be held in the same wallet, points will be determined depening on the type and time elapsed since the NFT was held.  Points will be reset and lost if NFT's are transferred or sold.
-
 **Reward points will be redeemed in future for NFT's, Merch, Account Upgrade Credits and also contribute to future community airdrops.**&#x20;
 
 ## Earning Reward Points by Referrals

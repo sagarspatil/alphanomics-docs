@@ -1,5 +1,6 @@
 ---
 description: What is ANOM Invaders?
+hidden: true
 ---
 
 # ☄️ ANOM Invaders
@@ -14,7 +15,7 @@ With our mini app, participating is simple and accessible directly through Teleg
 
 You can access the **ANOM Invaders** mini-app through the following steps:
 
-1. Join this Telegram channel: [https://t.me/anom\_invaders\_bot](https://t.me/anom\_invaders\_bot)
+1. Join this Telegram channel: [https://t.me/anom\_invaders\_bot](https://t.me/anom_invaders_bot)
 2. Click the "Start" button to get started.
 
 <figure><img src="../../.gitbook/assets/signal-2024-09-01-093323_002.png" alt="" width="375"><figcaption></figcaption></figure>
