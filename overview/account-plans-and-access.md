@@ -28,7 +28,7 @@ Here are the 3 plans available:
 * Whale Txn Stream
 * Access to our Community Discord Channel
 
-## PLUS Account Features (10 ANOM Points)
+## PLUS Account Features (100 ANOM Points)
 
 * Everything in Starter
 * Watchlists (100 Wallets & Tokens)
@@ -36,9 +36,8 @@ Here are the 3 plans available:
 * Onchain AI Advanced
 * Token Genius PRO
 * Discovery Alpha (Limited)
-* Plus members Discord group
 
-## PRO Account Features (1000 ANOM Points)
+## PRO Account Features (10000 ANOM Points)
 
 * Everything in PLUS
 * On-Chain AI Advanced (+Telegram)
