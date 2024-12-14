@@ -10,9 +10,9 @@
 
 * [⛓️ FAQ](overview/faq.md)
 * [⛓️ Account Plans & Access](overview/account-plans-and-access.md)
-* [⛓️ Earning ANOM Rewards](overview/earning-anom-rewards/README.md)
-  * [☄️ ANOM Invaders](overview/earning-anom-rewards/anom-invaders.md)
-  * [⛓️ NomieWorld NFT Collaboration](overview/earning-anom-rewards/nomieworld-nft-collaboration.md)
+* [⛓️ ANOM Points](overview/anom-points/README.md)
+  * [☄️ ANOM Invaders](overview/anom-points/anom-invaders.md)
+  * [⛓️ NomieWorld NFT Collaboration](overview/anom-points/nomieworld-nft-collaboration.md)
 * [⛓️ Chain Support](overview/chain-support.md)
 * [⛓️ Nomics API](overview/nomics-api.md)
 * [⛓️ Tokenomics](overview/tokenomics.md)
