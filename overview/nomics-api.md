@@ -1,5 +1,5 @@
 ---
-description: Updated soon.
+description: Unfortunately we have no plans to release or make our API available for now.
 ---
 
 # ⛓️ Nomics API
