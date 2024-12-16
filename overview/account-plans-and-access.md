@@ -8,17 +8,17 @@ Our objective is to deliver a robust and user-friendly application that encourag
 
 By creating a Starter account, you will gain access to some of our fundamental product features like the Live DEX Master, Token Genius (Lite), and the Wallet Deep Explorer.
 
-For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our PLUS and PRO-enabled platform.&#x20;
+For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our PLUS and NEXUS-enabled platform.&#x20;
 
 Both PLUS and PRO enable access to even more powerful features and functionalities.
 
-**To access the account tiers, users simply earn and own enough ANOM points.**
+**To access the account tiers, users simply own enough ANOM points.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-08-27 at 09.29.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-12-16 at 3.06.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 Here are the 3 plans available:
 
-## STARTER Account Features (FREE)
+## STARTER Account Features (OPEN)
 
 &#x20;Starter accounts will have unrestricted access to the following:
 
@@ -28,24 +28,21 @@ Here are the 3 plans available:
 * Whale Txn Stream
 * Access to our Community Discord Channel
 
-## PLUS Account Features (100 ANOM Points)
+## PLUS Account Features (30 ANOM Points)
 
 * Everything in Starter
 * Watchlists (100 Wallets & Tokens)
 * Perp DEX Data
-* Onchain AI Advanced
-* Token Genius PRO
-* Discovery Alpha (Limited)
+* Token Genius Lite
 
 ## PRO Account Features (10000 ANOM Points)
 
 * Everything in PLUS
-* On-Chain AI Advanced (+Telegram)
+* On-Chain AI Advanced&#x20;
 * Discovery Alpha with Smart Money Data
 * Watchlists & Smart Alerts (1000)
 * Advanced Search & CSV Downloads
-* Members Q\&A Research Live Streams
-* Narrative Pulse (Fully unlocked)
+* Narrative Pulse&#x20;
 * PRO private members Discord group
 * Priority access to all future updates
 
