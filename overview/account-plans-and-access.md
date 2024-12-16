@@ -18,7 +18,7 @@ Both PLUS and PRO enable access to even more powerful features and functionaliti
 
 Here are the 3 plans available:
 
-## STARTER Account Features (OPEN)
+## STARTER Level (OPEN)
 
 &#x20;Starter accounts will have unrestricted access to the following:
 
@@ -28,14 +28,14 @@ Here are the 3 plans available:
 * Whale Txn Stream
 * Access to our Community Discord Channel
 
-## PLUS Account Features (30 ANOM Points)
+## PLUS Level  (30 ANOM Points)
 
 * Everything in Starter
 * Watchlists (100 Wallets & Tokens)
 * Perp DEX Data
 * Token Genius Lite
 
-## PRO Account Features (10000 ANOM Points)
+## NEXUS Level  (10000 ANOM Points)
 
 * Everything in PLUS
 * On-Chain AI Advanced&#x20;
