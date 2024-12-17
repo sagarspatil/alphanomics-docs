@@ -8,13 +8,17 @@ Alphanomics is an easy to use intelligence DEX data platform which simplifies bl
 
 Yes, our platform is free to use for the on-chain community.  Advanced insights require upgraded accounts which at this current time can only unlocked with ANOM reward points.
 
-### What is PRO and PLUS?
+### What is NEXUS and PLUS?
 
-You can check out Account Tiers [here](account-plans-and-access.md), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM reward points by inviting new users.
+You can check out Account Tiers [here](account-plans-and-access.md), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM rewards by inviting new users.
+
+### How do i get access to your API?
+
+Currently our custom proprietary API is private.&#x20;
 
 ### How does Alphanomics use AI?
 
-Currently our custom proprietary API is private. Alphanomics harnesses AI in various ways to process our internal on-chain data. This includes assistance with labeling, contextualizing on-chain transactions and movements, and supporting risk assessment and due diligence. Additionally, we offer a specialized module in our terminal: On-Chain AI, which delivers standout signals, insights, and summaries, all powered by AI. See more info [here](../platform-tools/on-chain-ai.md).
+Alphanomics harnesses AI in various ways to process our internal on-chain data. This includes assistance with labeling, contextualizing on-chain transactions and movements, and supporting risk assessment and due diligence. Additionally, we offer a specialized module in our terminal: On-Chain AI, which delivers standout signals, insights, and summaries, all powered by AI. See more info [here](../platform-tools/on-chain-ai.md).
 
 ### What is Discovery Alpha?
 
