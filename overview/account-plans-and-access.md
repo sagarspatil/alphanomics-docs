@@ -28,16 +28,17 @@ Here are the 3 plans available:
 * Whale Txn Stream
 * Access to our Community Discord Channel
 
-## PLUS Level  (30 ANOM Points)
+## PLUS Level  (30 ANOM)
 
 * Everything in Starter
 * Watchlists (100 Wallets & Tokens)
 * Perp DEX Data
 * Token Genius Lite
 
-## NEXUS Level  (10000 ANOM Points)
+## NEXUS Level  (10000 ANOM)
 
 * Everything in PLUS
+* AI Agent Data
 * On-Chain AI Advanced&#x20;
 * Discovery Alpha with Smart Money Data
 * Watchlists & Smart Alerts (1000)
