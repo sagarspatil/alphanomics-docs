@@ -1,5 +1,6 @@
 ---
 description: Updated soon.
+hidden: true
 ---
 
 # ⛓️ Tokenomics

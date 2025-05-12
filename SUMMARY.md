@@ -23,8 +23,8 @@
 * [🔵 Token Genius](platform-tools/token-genius.md)
 * [🔵 Live DEX Master](platform-tools/live-dex-master.md)
 * [🔵 Wallet Deep Explorer](platform-tools/wallet-deep-explorer.md)
-* [🔵 On-Chain AI](platform-tools/on-chain-ai.md)
 * [🔵 Smart Alerts & Watchlists](platform-tools/smart-alerts-and-watchlists.md)
+* [🔵 On-Chain AI](platform-tools/on-chain-ai.md)
 
 ## Official Links
 

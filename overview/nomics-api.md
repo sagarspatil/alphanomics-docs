@@ -1,5 +1,7 @@
 ---
-description: Unfortunately we have no plans to release or make our API available for now.
+description: >-
+  If you have an enterprise account with us, please setup a ticket on discord
+  and we will setup access for you.
 ---
 
 # ⛓️ Nomics API

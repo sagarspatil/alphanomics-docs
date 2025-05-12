@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⛓️ SAGE Program
 
 The SAGE Rewards program (Self Accuracy Generates Efficiency) within Alphanomics stands as a dynamic user incentive initiative specifically designed to enhance data accuracy and contribute to the richness of the platform's analytical offerings.&#x20;

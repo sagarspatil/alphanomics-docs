@@ -4,9 +4,7 @@ description: Which chains are supported?
 
 # ⛓️ Chain Support
 
-**Alphanomics currently offers support and integration with Base, Avalanche, Polygon, Binance Smart Chain, Arbitrum, Cronos and Ethereum.**&#x20;
-
-We are actively working on integrating additional chains and networks, including Sui, Sei, Solana, Ton, Tron and other chains in the future.
+**Alphanomics currently offers support and integration with Solana, Base, Avalanche, Polygon, Binance Smart Chain, Arbitrum, and Ethereum.**&#x20;
 
 Our comprehensive On-Chain Tool Suite provides coverage for the main Automated Market Makers (AMMs) on each chain, encompassing at least 90% of the total trading volume for each chain integrated.
 
