@@ -1,8 +1,9 @@
 ---
 description: How do i earn ANOM reward points?
+hidden: true
 ---
 
-# ⛓️ Earning ANOM Rewards
+# ⛓️ ANOM Points
 
 Alphanomics is dedicated to establishing a dynamic and flourishing network and community on defi and on-chain enthusiasts. To achieve this, we have introduced a rewards system where members are incentivized for inviting other high value crypto on chain enthusiasts to join the Alphanomics platform.
 

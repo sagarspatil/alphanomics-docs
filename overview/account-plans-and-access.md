@@ -4,47 +4,35 @@ description: What are the account plans?
 
 # ⛓️ Account Plans & Access
 
-Our objective is to deliver a robust and user-friendly application that encourages widespread adoption in the cryptocurrency landscape, while ensuring accessibility for a diverse range of users. In pursuit of this goal, we have made our all-in-one platform completely free to utilize.
-
 By creating a Starter account, you will gain access to some of our fundamental product features like the Live DEX Master, Token Genius (Lite), and the Wallet Deep Explorer (still in beta).
 
-For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our PLUS and NEXUS-enabled platform.&#x20;
-
-Both PLUS and NEXUS enable access to even more powerful features and functionalities.
-
-**To access the account tiers, users simply own enough ANOM points.**
+For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our  NEXUS data enabled platform.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-12-16 at 3.06.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-Here are the 3 plans available:
-
-## Starter Access (OPEN)
+## Starter Access (FREE)
 
 &#x20;Starter accounts will have unrestricted access to the following:
 
 * Live DEX Master
 * Token Genius&#x20;
 * Wallet Deep Explorer
-* Whale Txn Stream
 * Access to our Community Discord Channel
 
-## Plus Access  (30 ANOM)
 
-* Everything in Starter
-* Watchlists (100 Wallets & Tokens)
-* Token Genius Lite
 
-## NEXUS Access  (10000 ANOM)
+## NEXUS Access  ( $NOMAI Bonding Accepted)
 
-* Everything in PLUS
-* AI Agent Data
-* On-Chain AI Advanced&#x20;
-* Discovery Alpha with Smart Money Data
-* Watchlists & Smart Alerts (1000)
-* Advanced Search & CSV Downloads
-* Narrative Pulse&#x20;
-* PRO private members Discord group
-* Priority access to all future updates
+* Tracking 16,000 Genius Wallets&#x20;
+* Smart Money DEX Stream&#x20;
+* Smart Money Holdings&#x20;
+* CEX & DEX Market Netflows&#x20;
+* Token & Agent Genius PRO&#x20;
+* 5 Smart Money Alerts&#x20;
+* Nomics Pulse&#x20;
+* Training Hub&#x20;
+* Nexus Private Group Chat&#x20;
+* Priority Access for Latest Releases
 
 
 
