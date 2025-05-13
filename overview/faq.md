@@ -6,15 +6,15 @@ Alphanomics is an easy to use intelligence DEX data platform which simplifies bl
 
 ### Is Alphanomics Free to use?
 
-Yes, our platform is free to use for the on-chain community.  Advanced insights require upgraded accounts which at this current time can only unlocked with ANOM reward points.
+Yes, our platform is free to use for the on-chain community.  Advanced insights and tooling require upgraded accounts with access to Nexus.
 
-### What is NEXUS and PLUS?
+### What is NEXUS?
 
-You can check out Account Tiers [here](account-plans-and-access.md), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access to these by earning the right amount of ANOM rewards by inviting new users.
+You can check out Account Tiers [here](account-plans-and-access.md), having access to these tiers allow more advanced insights & intelligence to our data. You can unlock access by either holding/bonding qualified tokens ($NOMAI) or paying for subscription.
 
 ### How do i get access to your API?
 
-Currently our custom proprietary API is private.&#x20;
+Currently our custom proprietary API is for Enterprise clients only.&#x20;
 
 ### How does Alphanomics use AI?
 
@@ -22,11 +22,11 @@ Alphanomics harnesses AI in various ways to process our internal on-chain data. 
 
 ### What is Discovery Alpha?
 
-Discovery Alpha is a section of Alphanomics where all on-chain data and transactions have been processed and cleansed at a deeper level, giving better alpha and context to who and what primarily smart money is doing on-chain.  Here you will find DEX Accumulations, deposits, withdrawals, Smart Money portfolios and movements, and much more.
+Discovery Alpha is a section of Alphanomics where all on-chain data and transactions have been processed and cleansed at a deeper level, giving better alpha and context to who and what primarily smart money is doing on-chain.  Here you will find DEX Accumulations, deposits, withdrawals, Smart Money portfolios and movements, and much more.  This is only available for NEXUS tier.
 
-### What is Smart Money?
+### What is Smart Money & Genius Wallets?
 
-Smart money is explained [here](faq.md#what-is-smart-money).
+All explained [here](faq.md#what-is-smart-money).
 
 ### Does Alphanomics have a token?
 
