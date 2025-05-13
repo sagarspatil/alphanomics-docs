@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to Alphanomics](README.md)
-  * [⚡ Hot Trending Tokens](welcome-to-alphanomics/hot-trending-tokens.md)
-  * [🛡️ Token Genius Profile Update](welcome-to-alphanomics/token-genius-profile-update.md)
-  * [💧 What is NOMICS Score?](welcome-to-alphanomics/what-is-nomics-score.md)
   * [🧠 What is Smart Money / Genius Wallets?](welcome-to-alphanomics/what-is-smart-money-genius-wallets.md)
+  * [⚡ Hot Trending Tokens](welcome-to-alphanomics/hot-trending-tokens.md)
+  * [💧 What is NOMICS Score?](welcome-to-alphanomics/what-is-nomics-score.md)
+  * [🛡️ Token Genius Profile Update](welcome-to-alphanomics/token-genius-profile-update.md)
 
 ## Overview
 
