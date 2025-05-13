@@ -4,6 +4,10 @@ description: What it is and how do i use it?
 
 # 🔵 Wallet Deep Explorer
 
+**Please note, WDE is still in development and running in beta.  The accuracy of values may not be accurate at this moment.**
+
+
+
 Our Deep Wallet Explorer is a robust core tool within Alphanomics specifically designed to provide comprehensive alpha insights into any wallet address. With this tool, you can effortlessly access crucial information such as historical and potential future trade behaviours, performances, wallet movements, and holdings.&#x20;
 
 By examining past performance, we can assign significance to recent transactions within wallets where the owners are unknown.&#x20;
