@@ -8,7 +8,7 @@ At Alphanomics, we internally categorize various segments of Smart Money. Genera
 
 We have curated a list of nearly 16,000 Genius Wallets (and constantly updating/cleansing), categorized into segments such as prominent funds and entities, whales, venture capitalists, elite traders, and noteworthy public figures.
 
-Additionally, we feature Genius Wallets (The top 0.01% On-Chain entities), a dynamic and perpetually updated list of top PNL traders using our own AI engine.&#x20;
+Additionally, we feature Genius Wallets (top 0.01% On-Chain entities), a dynamic and perpetually updated list of top PNL traders using our own AI engine.&#x20;
 
 Our proprietary algorithm continuously monitors on-chain entities and wallets who consistently achieve high win rates, realize substantial profits, and demonstrate a keen understanding of market trends. This ensures that our data remains up-to-date and relevant.  This is what makes our platform extremely useful to navigate this chaotic space.
 

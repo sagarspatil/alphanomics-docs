@@ -1,5 +1,6 @@
 ---
 description: What does keeping Token Genius profiles up-to-date do?
+hidden: true
 ---
 
 # 🛡️ Token Genius Profile Update

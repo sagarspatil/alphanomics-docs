@@ -6,11 +6,11 @@ description: What are the account plans?
 
 By creating a Starter account, you will gain access to some of our fundamental product features like the Live DEX Master, Token Genius (Lite), and the Wallet Deep Explorer (still in beta).
 
-For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our  NEXUS data enabled platform.&#x20;
+For those who desire to take their experience to the next level and attain a greater edge and advantage, we provide the option to upgrade to our NEXUS data enabled platform.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-12-16 at 3.06.34 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-19 at 8.18.59 PM.png" alt=""><figcaption><p>Upgrade your account here: <a href="https://platform.alphanomics.io/plan">https://platform.alphanomics.io/plan</a></p></figcaption></figure>
 
-## Starter Access (FREE)
+## <sub>Starter Access (FREE)</sub>
 
 &#x20;Starter accounts will have unrestricted access to the following:
 
@@ -21,7 +21,7 @@ For those who desire to take their experience to the next level and attain a gre
 
 
 
-## NEXUS Access  ( $NOMAI Bonding Accepted)
+## NEXUS Access  ($NOMAI Bonding Accepted)
 
 * Tracking 16,000 Genius Wallets&#x20;
 * Smart Money DEX Stream&#x20;

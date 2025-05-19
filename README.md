@@ -1,5 +1,5 @@
 ---
-description: Simplifying on-chain for the next 100 million users.
+description: Surfacing infinite on-chain alpha.
 cover: .gitbook/assets/Screenshot 2023-09-03 at 10.58.35.png
 coverY: 50
 layout:
@@ -53,9 +53,9 @@ Alphanomics was designed to solve this by allowing end users to leverage this po
 
 **Token Genius** - Comprehensive token analyzer with live charts using advanced data cleansing & segmentation to identify crucial data points and front-run opportunities.
 
-**Wallet Deep Explorer** - The ability to deep dive alpha in any wallet address to see historical & future\* trade behaviours, performance, wallet movements and holdings.
+**Wallet Deep Explorer** - The ability to deep dive alpha in any wallet address to see historical & future\* trade behaviors, performance, wallet movements and holdings.
 
-**On-chain AI -** Enhanced & integrated A.I tech within our smart money database, we use powerful algos to analyze millions of live transactions to uncover alpha insights like never before.
+**On-chain AI -** Enhanced & integrated AI tech within our smart money database, we use powerful algos to analyze millions of live transactions to uncover alpha insights like never before.
 
 **Smart Alerts & Watch Lists -** Highly customisable instant alerts and notifications options to keep users informed about the latest wallet/token movements. Using Telegram or Discord.
 
@@ -63,13 +63,13 @@ Alphanomics was designed to solve this by allowing end users to leverage this po
 
 ## **Discovery Alpha**&#x20;
 
-This section represents one of the most powerful components we have developed at Alphanomics, encompassing a carefully curated selection of over 15000+ prominent entities, including whales, venture capitalists, funds, elite traders, and noteworthy wallets.&#x20;
+This section represents one of the most powerful components we have developed at Alphanomics, encompassing a carefully curated selection of over 16000+ prominent entities, including whales, venture capitalists, funds, elite traders, and noteworthy wallets.&#x20;
 
-Here, we can closely track the actions of the most astute investors in real-time, allowing us to discern their activities from the noise prevalent on social media. Whether it's accumulation, panic selling or portfolio management, you will gain comprehensive insights into the behaviours of the top 1% of wallets.
+Here, we can closely track the actions of the most astute investors in real-time, allowing us to discern their activities from the noise prevalent on social media. Whether it's accumulation, panic selling or portfolio management, you will gain comprehensive insights into the behaviors of the top 0.01% of wallets.
 
 Here is a breakdown of what we feature within our Discovery Alpha section:
 
-**Top 100 Traders -** See a breakdown of the top most profitable on-chain traders, what they are buying/selling, how they made their biggest wins/losses and how they rank.
+**Nomics Pulse** - On-Chain volume momentum radar using AI and our data pipelines
 
 **Narrative Pulse** - Highlights sectors and narratives which have had the highest/lowest on-chain activity and gains.
 
