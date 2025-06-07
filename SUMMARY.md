@@ -18,6 +18,10 @@
 * [⛓️ Tokenomics](overview/tokenomics.md)
 * [⛓️ SAGE Program](overview/sage-program.md)
 
+***
+
+* [⛓️ AI Agent: nomAI](ai-agent-nomai.md)
+
 ## ON-CHAIN TERMINAL TOOLS
 
 * [🔵 Token Genius](platform-tools/token-genius.md)

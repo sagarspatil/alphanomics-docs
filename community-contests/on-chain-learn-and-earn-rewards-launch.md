@@ -1,5 +1,6 @@
 ---
 description: How to participate and get your rewards.
+hidden: true
 ---
 
 # 🏆 On-Chain Learn & Earn Rewards Launch

@@ -6,7 +6,9 @@ description: Which chains are supported?
 
 **Alphanomics currently offers support and integration with Solana, Base, Avalanche, Polygon, Binance Smart Chain, Arbitrum, and Ethereum.**&#x20;
 
-Our comprehensive On-Chain Tool Suite provides coverage for the main Automated Market Makers (AMMs) on each chain, encompassing at least 90% of the total trading volume for each chain integrated.
+Our comprehensive On-Chain platforms provides coverage for the main Automated Market Makers (AMMs) on each chain, encompassing at least 95% of the total trading volume for each chain integrated.  We pride ourselves in having the best coverage on all on-chain dex transactions.
+
+
 
 <figure><img src="../.gitbook/assets/network.gif" alt="" width="171"><figcaption><p>Chain Selection</p></figcaption></figure>
 
