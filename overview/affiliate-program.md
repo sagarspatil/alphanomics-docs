@@ -62,7 +62,7 @@ Navigate to our payment partner's page:[ https://app.hel.io/pay/681f8ae6146f7532
 1. Paste the link you copied from Helio
 2. Remove everything before the "=" sign - keep only the code after it
 
-> Example: https://app.hel.io/pay/681f8ae6146f7532c897e143?af=<mark style="background-color:yellow;">**muygceavmr**</mark>\
+> Example: https://app.hel.io/pay/681f8ae6146f7532c897e143?af=<mark style="background-color:yellow;">**iutmbsxzci**</mark>\
 > Your Referal Code is = <mark style="background-color:yellow;">**iutmbsxzci**</mark>
 
 1. Click "Confirm" to save
