@@ -10,6 +10,7 @@
 
 * [⛓️ FAQ](overview/faq.md)
 * [⛓️ Account Plans & Access](overview/account-plans-and-access.md)
+* [⛓️ Affiliate Program](overview/affiliate-program.md)
 * [⛓️ ANOM Points](overview/anom-points/README.md)
   * [☄️ ANOM Invaders](overview/anom-points/anom-invaders.md)
   * [⛓️ NomieWorld NFT Collaboration](overview/anom-points/nomieworld-nft-collaboration.md)
